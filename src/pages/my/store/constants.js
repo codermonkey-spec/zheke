@@ -1,0 +1,1 @@
+export const CHANGE_MY_ICONS = 'CHANGE_MY_ICONS'
